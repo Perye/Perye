@@ -15,7 +15,7 @@ You can use the website to generate badges: https://shields.io/
 
 - 👨🏽‍💻 I’m Currently blogging in [perye's Blog](https://perye.github.io/);
 - 🌱 I’m currently learning Java and Continuous Integration(CircleCI); 
-- 🤔 I’m looking for help with Design Pattern 😭;
+- 🤔 I’m looking for help with Design Pattern;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have a degree in software engineering;
 - 📫 How to reach me: 11143526@qq.com;
