@@ -9,7 +9,7 @@ You can use the website to generate badges: https://shields.io/
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:peryedev@gmail.com)
 
 <br>**Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/{sanchitvj}/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/{perye}/count.svg)
 
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
