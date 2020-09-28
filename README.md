@@ -7,9 +7,6 @@ You can use the website to generate badges: https://shields.io/
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:peryedev@gmail.com)
 -->
 
-<br>**Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/{perye}/count.svg)
-
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
@@ -57,5 +54,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 **Top Langs:**  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perye&layout=compact)](https://github.com/perye)
 
+**Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{perye}/count.svg)
 
 
