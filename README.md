@@ -3,10 +3,9 @@
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
--->
-
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/perye)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:peryedev@gmail.com)
+-->
 
 <br>**Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{perye}/count.svg)
