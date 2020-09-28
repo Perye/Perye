@@ -14,7 +14,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/perye/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working;
 - 🌱 I’m currently learning Java and Continuous Integration(CircleCI); 
@@ -58,13 +58,4 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perye&layout=compact)](https://github.com/perye)
 
 
-<!-- Its main projects -->
-<p align="center">
-  <a href="https://github.com/perye/dokit">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=perye&repo=dokit" />
-  </a>
-  <a href="https://github.com/perye/hexo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=perye&repo=hexo" />
-  </a>
-</p>
 
