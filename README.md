@@ -11,7 +11,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://github.githubassets.com/images/modules/marketplace/marketplace-illustration-01.svg" />
 
 - 👨🏽‍💻 I’m Currently blogging in [perye's Blog](https://perye.github.io/);
 - 🌱 I’m currently learning Java and Continuous Integration(CircleCI); 
